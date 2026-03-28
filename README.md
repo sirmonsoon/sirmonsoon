@@ -1,6 +1,6 @@
 # Mridul Waldia
 
-B.S. in Computer Science @ ASU
+B.S. in Computer Science @ ASU.
 Interested in Backend Systems, APIs, Machine Learning, and Cybersecurity.
 
 ## Projects
