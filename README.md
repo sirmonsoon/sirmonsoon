@@ -1,16 +1,19 @@
-## Hi there 👋
+# Mridul Waldia
 
-<!--
-**sirmonsoon/sirmonsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.S. in Computer Science @ ASU
+Interested in Backend Systems, APIs, Machine Learning, and Cybersecurity.
 
-Here are some ideas to get you started:
+## Projects
+- Personal Finance API (Flask + SQLite)
+- Project 2
+- Project 3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python, C++, SQL, Flask, Git
+
+## Currently Working On
+- Backend development
+- DSA fundamentals
+
+## Contact
+[linkedin.com/in/mridulwaldia]
