@@ -5,7 +5,7 @@ Interested in Backend Systems, APIs, Machine Learning, and Cybersecurity.
 
 ## Projects
 - Personal Finance API (Flask + SQLite)
-- Project 2
+- Machine Learning Fraud Detection (Pandas, Scikit-Learn, Classification, Threshold-Tuning)
 - Project 3
 
 ## Skills
