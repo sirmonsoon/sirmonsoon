@@ -17,3 +17,4 @@ Python, C++, SQL, Flask, Git
 
 ## Contact
 [linkedin.com/in/mridulwaldia]
+[mridulsinghwaldia@gmail.com]
